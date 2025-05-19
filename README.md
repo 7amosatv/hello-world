@@ -1,4 +1,4 @@
-# 🌈 Rainbow Hello World
+# Rainbow Hello World
 
 A beautiful, animated rainbow-themed Hello World page. This project features:
 
