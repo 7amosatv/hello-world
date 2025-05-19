@@ -22,6 +22,8 @@ Simply open the `index.html` file in your web browser to see the rainbow animati
 
 ## 💫 Preview
 
+Visit the page at: [mrait.ca](https://mrait.ca)
+
 The page features a beautiful rainbow gradient background that smoothly animates, with a clean white container in the center displaying the rainbow text effect.
 
 ## 🛠️ Technologies Used
